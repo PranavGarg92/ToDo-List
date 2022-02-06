@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(32, 97, 151);
+}
+
+.constainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  background-color: rgb(218, 101, 120);
+  min-height: 500px;
+  width: 400px;
+  border-radius: 20px;
+}

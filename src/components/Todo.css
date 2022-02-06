@@ -1,0 +1,9 @@
+.todoForm {
+  display: flex;
+  justify-content: space-around;
+}
+
+.btn-todo {
+  margin: 5px;
+  border-radius: 15px;
+}

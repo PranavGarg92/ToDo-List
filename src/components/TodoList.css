@@ -1,0 +1,14 @@
+.list {
+  margin: 20px;
+}
+
+.todo-task {
+  color: azure;
+  font-size: larger;
+}
+
+.listItem {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
